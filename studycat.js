@@ -1,6 +1,6 @@
 var obj = JSON.parse($response.body);
 
-obj["info"]["subscriptions"]= [
+obj= [
 {
 "currency":"USD",
 "subscription_id":"2000000510526219",
