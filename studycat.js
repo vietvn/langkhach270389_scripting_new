@@ -1,6 +1,6 @@
 var obj = JSON.parse($response.body);
 
-obj.data.purchased = 
+obj.data.purchased= 
 {
 "currency":"USD",
 "subscription_id":"2000000510526219",
